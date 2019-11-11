@@ -1,0 +1,4 @@
+.git
+.dockerignore
+concordia.egg-info
+MANIFEST.in
